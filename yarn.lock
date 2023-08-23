@@ -786,9 +786,9 @@
     debounce "1.0.0"
     md5-o-matic "^0.1.1"
 
-"@sanctucompu/sanity-graph-import@https://github.com/regen-network/sanity-graph-import":
+"@sanctucompu/sanity-graph-import@https://github.com/RegenNetwork/sanity-graph-import":
   version "1.1.2"
-  resolved "https://github.com/regen-network/sanity-graph-import#d973d9f064edca5bb1e67476586eecff340174b3"
+  resolved "https://github.com/RegenNetwork/sanity-graph-import#d973d9f064edca5bb1e67476586eecff340174b3"
   dependencies:
     "@sanity/import" "^2.1.4"
     "@typescript-eslint/eslint-plugin" "^4.14.1"
